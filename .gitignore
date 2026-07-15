@@ -63,6 +63,9 @@ data/
 htmlcov/
 .tox/
 
+# 本地视频检测输出
+model_tests/**/outputs/
+
 # 操作系统
 .DS_Store
 Thumbs.db
